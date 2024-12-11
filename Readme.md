@@ -45,7 +45,7 @@ This project is a RESTful API for managing tickets, built with Java and Spring B
    docker-compose up --build
    ```
 
-The application should now be running at \`http://localhost:8080\`.
+The application should now be running at http://localhost:8080.
 
 ## API Endpoints
 
