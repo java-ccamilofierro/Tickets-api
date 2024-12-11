@@ -101,10 +101,3 @@ A Postman collection is included in the project for easy testing of the API endp
 - Make sure to include both the status and username in ticket creation and update requests.
 - The status can only be "Cerrado" (Closed) or "Abierto" (Open).
 
-## Contributing
-
-Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).`;
